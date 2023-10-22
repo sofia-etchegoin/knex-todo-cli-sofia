@@ -24,7 +24,7 @@ We're building a simple command-line tool to manage our list of todos. We're fin
 
   </details>
 
-- [ ] Set file permissions using `chmod +x todo`
+- [ ] Set file permissions using `chmod +x todo.js`
   <details style="padding-left: 2em">
     <summary>More about file permissions</summary>
 
